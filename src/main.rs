@@ -148,4 +148,5 @@ async fn main() {
     }
 
     println!("\n\"Everybody good? Plenty of slaves for my robot colony?\" - TARS (25% humor)");
+    println!("\nDeveloped By net1io.com | Copyright (C) 2025");
 }
